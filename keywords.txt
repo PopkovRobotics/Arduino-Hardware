@@ -1,0 +1,34 @@
+#######################################
+# Syntax Coloring Map
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Motor	KEYWORD1
+Indicators	KEYWORD1
+TrackerSensor	KEYWORD1
+Direction_t	KEYWORD1
+Mode_t	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+direction	KEYWORD2
+speed	KEYWORD2
+lights_off	KEYWORD2
+upd_indicators	KEYWORD2
+weights	KEYWORD2
+read	KEYWORD2
+read_all	KEYWORD2
+print	KEYWORD2
+blackline	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+COUNT_SENSORS	LITERAL1 
+COUNT_LIGHTS	LITERAL1 
